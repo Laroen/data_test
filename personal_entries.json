@@ -1,0 +1,26 @@
+[
+{
+"PID": "1122334455",
+"name": "John Doe",
+"gender": "M",
+"last_contacted": "2017-03-02T11:43:00",
+"birth_year": 1987,
+"useless_info": [1, 2, 3]
+},
+{
+"PID": "2233445566",
+"name": "Jane Doe",
+"gender": "F",
+"last_contacted": "2019-10-12T15:22:34",
+"birth_year": 1965,
+"useless_info": [2, 3, 4]
+},
+{
+"PID": "3344556677",
+"name": "John Smith",
+"gender": "",
+"last_contacted": "2020-01-05T08:27:12",
+"birth_year": 1999,
+"useless_info": [1, 2, 3, 4, 5]
+}
+]

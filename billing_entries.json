@@ -1,0 +1,32 @@
+[
+{
+"PID": 3344556677,
+"last_updated": 1578209232000,
+"address_info": {
+  "city": "Minneapolis",
+  "ZIP": 56112,
+  "street": "Imaginary street",
+  "number": 77
+  }
+},
+{
+"PID": 1122334455,
+"last_updated": 1488451380000,
+"address_info": {
+  "city": "Los Angeles",
+  "ZIP": -1,
+  "street": "Hollywood",
+  "number": -1
+  }
+},
+{
+"PID": 2233445566,
+"last_updated": 1519987380000,
+"address_info": {
+  "city": "Miami",
+  "ZIP": 65897,
+  "street": "Dexter street",
+  "number": 197
+  }
+}
+]
